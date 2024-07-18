@@ -6,12 +6,18 @@ This project is a simple and interactive To-Do List application that allows user
 
 
 **Features-**
+
 **Add Tasks:** Users can add tasks to the list by entering a task in the input field and clicking the "Add Task" button.
+
 **Remove Tasks:** Each task in the list has a "Remove" button that allows users to delete the task from the list.
+
 **Responsive Design:** The application is styled with CSS to ensure a clean and user-friendly interface.
 
 
 **Technologies Used-**
+
 **HTML:** The structure of the application.
+
 **CSS:** Styling for the application to enhance its appearance.
+
 **JavaScript:** Functionality for adding and removing tasks.
